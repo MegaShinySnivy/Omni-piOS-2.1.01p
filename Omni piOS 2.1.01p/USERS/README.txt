@@ -1,0 +1,1 @@
+The █▒▀▓▄ folder is IMPULSE's, it is a glitched folder but still usable, the only thing it did was allow him to create glitches.
