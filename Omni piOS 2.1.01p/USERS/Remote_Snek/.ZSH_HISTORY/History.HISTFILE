@@ -1,0 +1,4 @@
+echo "I took the plunge into the system.I think I have a way to bring things in--I left myself an open SSH port when I jumped. But who knows. I just bring a few comforts with me" >> Journal.notes
+systemctl enable SSH.service
+systemctl start SSH.service
+exit
